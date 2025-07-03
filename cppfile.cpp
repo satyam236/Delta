@@ -4,6 +4,7 @@ using namespace std;
 void solve(){
     cout<<"hello world"<<endl;
     cout<<"node1 branch"<<endl;
+    cout<<"node2 branch"<<endl;
 }
 
 signed main() {
