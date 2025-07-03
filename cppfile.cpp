@@ -3,6 +3,7 @@ using namespace std;
 #define int long long
 void solve(){
     cout<<"hello world"<<endl;
+    cout<<"node1 branch"<<endl;
 }
 
 signed main() {
